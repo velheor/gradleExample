@@ -1,0 +1,3 @@
+rootProject.name = 'gradleExample'
+include 'view'
+include 'back'
